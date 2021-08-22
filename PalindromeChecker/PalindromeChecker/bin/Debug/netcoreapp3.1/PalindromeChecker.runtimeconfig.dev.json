@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dayas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dayas\\.nuget\\packages"
+    ]
+  }
+}

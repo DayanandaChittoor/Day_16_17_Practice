@@ -1,0 +1,14 @@
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\dayas\programcodes\Day_16_17_Practice\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\dayas\programcodes\Day_16_17_Practice\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache

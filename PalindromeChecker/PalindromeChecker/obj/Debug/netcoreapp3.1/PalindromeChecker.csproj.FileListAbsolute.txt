@@ -1,0 +1,13 @@
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.exe
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.deps.json
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.runtimeconfig.json
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.dll
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.pdb
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.AssemblyInfo.cs
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.dll
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.pdb
+C:\Users\dayas\programcodes\Day_16_17_Practice\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.genruntimeconfig.cache
